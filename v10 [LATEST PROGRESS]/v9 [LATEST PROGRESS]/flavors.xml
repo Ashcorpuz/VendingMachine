@@ -1,0 +1,10 @@
+<items>
+    <item name="Chocolate">
+        <calorie value="10"/>
+        <price value="0"/>
+    </item>
+    <item name="Vanilla">
+        <calorie value="20"/>
+        <price value="0"/>
+    </item>
+</items>
