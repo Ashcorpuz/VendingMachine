@@ -1,0 +1,42 @@
+<items>
+    <item name="Chocolate">
+        <calorie value="143"/>
+        <price value="60"/>
+    </item>
+    <item name="Vanilla">
+        <calorie value="143"/>
+        <price value="60"/>
+    </item>
+    <item name="Strawberry">
+        <calorie value="112"/>
+        <price value="70"/>
+    </item>
+    <item name="Mint Chocolate">
+        <calorie value="143"/>
+        <price value="70"/>
+    </item>
+    <item name="Cookies and Cream">
+        <calorie value="143"/>
+        <price value="80"/>
+    </item>
+    <item name="Coffee">
+        <calorie value="143"/>
+        <price value="80"/>
+    </item>
+    <item name="Rocky Road">
+        <calorie value="196"/>
+        <price value="100"/>
+    </item>
+    <item name="Chocolate Chip Cookie Dough">
+        <calorie value="186"/>
+        <price value="100"/>
+    </item>
+    <item name="Salted Caramel">
+        <calorie value="160"/>
+        <price value="90"/>
+    </item>
+    <item name="Butter Pecan">
+        <calorie value="184"/>
+        <price value="90"/>
+    </item>
+</items>
